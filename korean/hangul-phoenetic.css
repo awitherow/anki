@@ -10,17 +10,29 @@
 }
 
 .hangul {
-  font-size: 3em;
+  font-size: 4em;
   color: blue;
   font-weight: 100;
 }
 
 .phoenetic {
   color: red;
-  font-size: 1.5em;
+  font-size: 1em;
   font-weight: 100;
 }
 
 .english {
   font-size: 2em;
+  font-weight: bold;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
 }
