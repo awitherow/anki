@@ -1,0 +1,26 @@
+.card {
+  background: lightgray;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.hangul,
+.phoenetic {
+  font-weight: 100;
+}
+
+.hangul {
+  font-size: 3em;
+  color: blue;
+  font-weight: 100;
+}
+
+.phoenetic {
+  color: red;
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+.english {
+  font-size: 2em;
+}
